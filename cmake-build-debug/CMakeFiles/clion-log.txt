@@ -1,0 +1,27 @@
+"E:\cc\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Administrator\Desktop\gameserverlearn\gameServer
+[ 11%] Creating directories for 'asio-populate'
+[ 22%] Performing download step (git clone) for 'asio-populate'
+-- Avoiding repeated git clone, stamp file is up to date: 'C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/_deps/asio-subbuild/asio-populate-prefix/src/asio-populate-stamp/asio-populate-gitclone-lastrun.txt'
+[ 33%] No patch step for 'asio-populate'
+[ 44%] Performing update step for 'asio-populate'
+fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+CMake Error at C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/_deps/asio-subbuild/asio-populate-prefix/tmp/asio-populate-gitupdate.cmake:10 (message):
+  Failed to get the hash for HEAD
+
+
+mingw32-make[2]: *** [CMakeFiles\asio-populate.dir\build.make:116: asio-populate-prefix/src/asio-populate-stamp/asio-populate-update] Error 1
+mingw32-make[1]: *** [CMakeFiles\Makefile2:95: CMakeFiles/asio-populate.dir/all] Error 2
+mingw32-make: *** [Makefile:103: all] Error 2
+
+CMake Error at E:/cc/CLion 2020.3.1/bin/cmake/win/share/cmake-3.17/Modules/FetchContent.cmake:912 (message):
+  Build step for asio failed: 2
+Call Stack (most recent call first):
+  E:/cc/CLion 2020.3.1/bin/cmake/win/share/cmake-3.17/Modules/FetchContent.cmake:1003 (__FetchContent_directPopulate)
+  E:/cc/CLion 2020.3.1/bin/cmake/win/share/cmake-3.17/Modules/FetchContent.cmake:1044 (FetchContent_Populate)
+  lib/CMakeLists.txt:12 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/CMakeFiles/CMakeOutput.log".

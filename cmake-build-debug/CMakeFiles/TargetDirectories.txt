@@ -1,0 +1,8 @@
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/CMakeFiles/gameServer.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/lib/spdlog/CMakeFiles/spdlog.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/lib/spdlog/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/gameserverlearn/gameServer/cmake-build-debug/lib/spdlog/CMakeFiles/rebuild_cache.dir
